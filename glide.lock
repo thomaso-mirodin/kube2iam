@@ -225,5 +225,5 @@ imports:
   - pkg/kubelet/qos
   - pkg/master/ports
 - name: speter.net/go/exp/math/dec/inf
-  version: 42ca6cd68aa922bc3f32f1e056e61b65945d9ad7
+  version: ""
 devImports: []
